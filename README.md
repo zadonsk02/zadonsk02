@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zadonsk02
-- 👀 I’m interested in PowerShell and Python.
-- 🌱 I’m currently learning Microsoft Server and Azure
+- 👀 I’m interested in PowerShell, Python and C++.
+- 🌱 I'm also a Cisco enthusiast, and chipping away at Cloud technologies
 <!--- 💞️ I’m looking to collaborate?
 - 📫 How to reach me?
 --->
