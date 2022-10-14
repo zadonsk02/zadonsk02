@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zadonsk02
-- 👀 I’m interested in PowerShell, Python and C++.
+- 👀 I’m interested in bash, Python and C++.
 - 🌱 I'm also a Cisco enthusiast, and chipping away at Cloud technologies
 <!--- 💞️ I’m looking to collaborate?
 - 📫 How to reach me?
