@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zadonsk02
-- 👀 I’m interested in Python and C++.
-- 🌱 I'm also a Cisco enthusiast, and chipping away at Cloud technologies
+- 👀 Interested in Python and C++
 <!--- 💞️ I’m looking to collaborate?
 - 📫 How to reach me?
 --->
