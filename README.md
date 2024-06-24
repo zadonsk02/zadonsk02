@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zadonsk02
-- 👀 Interested in Python and C++
+- 👀 Interested in Cisco and C++
 <!--- 💞️ I’m looking to collaborate?
 - 📫 How to reach me?
 --->
